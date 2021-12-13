@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Mainframe98",
-			"Siebrand"
+			"Siebrand",
+			"Romaine"
 		]
 	},
 	"categorywatch-desc": "Breidt de functie van de volglijst uit met meldingen over wijzigingen in categorielidmaatschap van categorieën op de volglijst",
@@ -18,5 +19,6 @@
 	"categorywatch-notification-categorywatch-add-body": "[[User:$1|$1]] heeft [[:$3|$3]] toegevoegd aan [[:$4|$4]]",
 	"categorywatch-notification-categorywatch-remove-header": "[[:$1|$2]] verwijderd van [[:$3|$4]]",
 	"categorywatch-notification-categorywatch-remove-summary": "[[:$3|$4]] verwijderd van [[:$5|$6]]",
-	"categorywatch-notification-categorywatch-remove-body": "[[User:$1|$1]] heeft [[:$3|$3]] verwijderd van [[:$4|$4]]"
+	"categorywatch-notification-categorywatch-remove-body": "[[User:$1|$1]] heeft [[:$3|$3]] verwijderd van [[:$4|$4]]",
+	"echo-category-title-categorywatch": "Categorie volgen"
 }
