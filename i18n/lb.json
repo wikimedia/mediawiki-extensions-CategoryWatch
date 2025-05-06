@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Robby"
+			"Robby",
+			"Volvox"
 		]
 	},
 	"categorywatch-desc": "Erweidert d'Fonctionalitéite vun der Iwwerwwaachungslëscht op d'Notifikatioun iwwer déi Säiten, déi an der iwwerwaachter Kategorie dra sinn.",
@@ -19,5 +20,5 @@
 	"categorywatch-add-title": "Titel dee bäi eng iwwerwaacht Kategorie dobäigesat gëtt",
 	"categorywatch-remove-title": "Titel aus der iwwerwaachter Kategorie ewechgeholl",
 	"echo-category-title-categorywatch": "iwwerwaacht Kategorie",
-	"echo-pref-tooltip-categorywatch": "Mech informéiere wann een eng Säit an eng Kategorie drasetzt oder eraushëlt, déi ech iwwerwaachen."
+	"echo-pref-tooltip-categorywatch": "Mech informéieren, wann een eng Säit an eng Kategorie drasetzt oder eraushëlt, déi ech iwwerwaachen."
 }
