@@ -21,10 +21,10 @@
  */
 namespace CategoryWatch;
 
-use Category;
 use EchoEvent;
+use MediaWiki\Category\Category;
 use MediaWiki\MediaWikiServices;
-use Title;
+use MediaWiki\Title\Title;
 use User;
 use WatchedItemStore;
 use WikiPage;
