@@ -25,8 +25,8 @@ use EchoEvent;
 use MediaWiki\Category\Category;
 use MediaWiki\MediaWikiServices;
 use MediaWiki\Title\Title;
-use User;
-use WatchedItemStore;
+use MediaWiki\User\User;
+use MediaWiki\Watchlist\WatchedItemStore;
 use WikiPage;
 
 class Hook {

@@ -24,8 +24,8 @@
 namespace CategoryWatch;
 
 use MediaWiki\MediaWikiServices;
+use MediaWiki\Message\Message;
 use MediaWiki\Title\Title;
-use Message;
 
 class EchoEventPresentationModel extends \EchoEventPresentationModel {
 	/**
